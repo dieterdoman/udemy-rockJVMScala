@@ -1,6 +1,6 @@
 package lectures.Part1Basics
 
-object Functions extends App{
+object Functions extends App {
   def afunction(a: String, b: Int): String = {
     a + " " + b
   }
